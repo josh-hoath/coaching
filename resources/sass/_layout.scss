@@ -1,0 +1,26 @@
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.btn-custom {
+    background-color: $light-blue;
+    color: white;
+    a {
+        color: white;
+        display:block;
+    }
+}
+.bg-custom {
+    background-color: $dark-blue;
+    .navbar-brand {
+        height: 4rem;
+        width: 8rem;
+        img {
+            width: 100%;
+            height: 100%;
+        }
+    }
+}
+.stripe-menu {
+    margin-right: 1.25rem;
+}
